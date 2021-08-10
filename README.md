@@ -2,7 +2,7 @@
 
 <h2>Breaking Bad</h2>
 <img src="https://c.tenor.com/XyqAngSRH08AAAAM/drag-medicine.gif" width="150px" padding="2px">
-<img src="https://es.web.img3.acsta.net/pictures/18/04/04/22/52/3191575.jpg" width="80px">
+<img src="https://es.web.img3.acsta.net/pictures/18/04/04/22/52/3191575.jpg" width="150px">
 <h3>Descripcion</h3>
 <h2>Friends</h2>
 <img src="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2016/07/poster-friends.jpg?itok=fLzwNnjz" width="150px">
