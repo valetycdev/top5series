@@ -1,3 +1,3 @@
-# ✨ Top 5 Series ✨M
+# ✨ Top 5 Series ✨
 
 
